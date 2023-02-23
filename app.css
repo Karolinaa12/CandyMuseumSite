@@ -21,3 +21,12 @@ body {
 #mainNavbar .nav-link:hover {
     color: #EA1C2C;
 }
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+#headingGroup span {
+    color: #EA1C2C;
+}
